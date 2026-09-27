@@ -28,10 +28,16 @@ pays attention to detail, extremely motivated and passionate about bettering my 
 This repository contains some of the practical exercises and labs I have used to practice my skills to analyze security incidents, assess risks, 
 document findings and apply my knowledge of security concepts. 
 ### Incident Response
-exercises involving incident investigation, incident reports, alert handling and network traffic analysis
+Exercises involving incident investigation, incident reports, alert handling and network traffic analysis.
 [View Incident Response projects](./Incident_response)
 
 ### Risks and security assessment
+Exercises involving risk assessments, asset inventories, data leaks, access control, and security frameworks.
+[View Risk and security assessments projects](./Risks-and-security-assessment)
+
+### Python
+Exercises covering algorithms, file handling, conditional statements, strings and basic automation
+[View Python projects](./Python)
 
 
 
