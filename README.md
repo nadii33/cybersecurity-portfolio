@@ -13,7 +13,7 @@ pays attention to detail, extremely motivated and passionate about bettering my 
 
 ## Skills and knowledge
 - Incident response
-- Security risk assesment
+- Security risk assessment
 - Network traffic analysis
 - Access control
 - Threat analysis
@@ -27,5 +27,14 @@ pays attention to detail, extremely motivated and passionate about bettering my 
 ## Projects
 This repository contains some of the practical exercises and labs I have used to practice my skills to analyze security incidents, assess risks, 
 document findings and apply my knowledge of security concepts. 
+### Incident Response
+exercises involving incident investigation, incident reports, alert handling and network traffic analysis
+[View Incident Response projects](./Incident_response)
+
+### Risks and security assessment
+
+
+
+
 
 
